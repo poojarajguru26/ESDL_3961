@@ -8,3 +8,8 @@ int add(int p,int q)
 {
   return p+q;
 }
+//This function gives additon of two numbers.
+int sub(int p,int q)
+{
+  return p-q;
+}
